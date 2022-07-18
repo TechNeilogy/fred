@@ -1,0 +1,1 @@
+jupyter nbconvert Fred.ipynb --no-input --to html
